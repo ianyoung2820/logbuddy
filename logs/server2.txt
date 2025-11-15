@@ -1,0 +1,6 @@
+INFO User login: mike
+INFO User login: sarah
+ERROR Missing permissions for user sarah
+INFO Request handled successfully
+WARNING Slow database query detected
+INFO Request handled successfully

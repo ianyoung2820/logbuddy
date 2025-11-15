@@ -1,0 +1,7 @@
+INFO Starting server...
+INFO Listening on port 8080
+WARNING High memory usage detected
+ERROR Connection failed for user admin
+INFO Retrying connection
+ERROR Connection failed again
+INFO Server shutting down
